@@ -11,6 +11,7 @@ The following Stackoverflow users' answers were very helpful while making this s
  - Ashwinee K Jha
  - Bryan Oakley
  - A. Rodas
+ 
 Thanks for all of you <3
 ## Side note
 The `points.txt` file contains some example points to use this script
