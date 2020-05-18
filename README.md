@@ -3,7 +3,7 @@ This is a simple script I threw together to visualize points on a 2 dimensional 
 I thought I would share it with everyone, use it for whatever you want.
 It is licensed under the CC0 license. Have fun using it.
 
-By the way, if you found it useful, please message me at [almaember@protonmail.com](mailto:almaember@protonmail.com)
+By the way, if you found it useful, you have something to say, or need help, please message me at [almaember@protonmail.com](mailto:almaember@protonmail.com)
 ## Thank you
 While I made this alone, there are a few people I want to thank (Yay stackoverflow people).
 The following Stackoverflow users' answers were very helpful while making this script:

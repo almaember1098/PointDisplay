@@ -64,7 +64,7 @@ infoText += 'Please note that these values are calculated only between subsequen
 
 def openAboutWindow():
     aboutText = '''
-    (C) 2020 almaember. License: GNU GPLv3
+    (C) 2020 almaember. License: CC0-1.0
     Created by: almaember AKA DrAlmaember or almaember1098
     === Contact ===
     Reddit: u/almaember (https://reddit.com/u/almaember)
